@@ -1,0 +1,11 @@
+목표
+1. analysing data utilising public data
+2. pre-processing exploring data analysis using pandas
+3. visualising data using matplotlibrary와 seeborn
+4. drawing "Insight" as time peirod, stations, lines
+
+
+#data introduction & download
+1. https://data.seoul.go.kr
+2. data: 서울시 지하철 호선별 역별 시간대별 승하차 인원정보
+3. file: csv(comma separated values)
