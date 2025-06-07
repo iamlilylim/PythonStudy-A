@@ -1,0 +1,14 @@
+AI Word Learning Game
+[Plans]
+ - functions
+  > words quiz: when a Korean word pops up, type the right English words(Correct/Incorrect)
+  > level: Easy / Normal / Hard (Dictionary)
+  > wrong answer saving: to use reviewing mode
+  > suggestion: show based on often getting wrong words
+
+< Directory >
+ AI Word Game
+  - main.py     #excutable file
+  - word_data.py #word/level data
+  - logic.py    # making quiz, marking, saving frequently missed questions
+  - ui.py # tkinter UI
